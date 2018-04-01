@@ -1,16 +1,16 @@
 {
-  "error": "Error: %s",
-  "shell": {
-    "layout": {
-      "demoExpired": {
-        "title": "Demo Expired",
-        "canUpgrade": "Thanks for trying the Sandstorm Demo! Your demo account has expired. If you'd like to continue using Sandstorm and make your data permanent, please sign in.",
-        "cannotUpgrade": "Thanks for trying the Sandstorm Demo! Your demo account has expired.",
-        "signOut": "Sign out"
+  "klaida": "Klaida: %s",
+  "Kiautas": {
+    "paletė": {
+      "Bandomoji versija išseko": {
+        "pavadinimas": "Bandomoji versija išseko",
+        "Galimasnaujinimas": "Ačiū už išbandymą Sandstorm bandomosios versijos! Jūsų bandomosios versijos paskyra išseko. Jeigu Jūs norite tęsti Sandstorm aplikacijos naudojimą, prašome prisijungti.",
+        "neįgalintas naujinimas": "Ačiū už išbandymą Sandstorm bandomosios versijos! Jūsų bandomosios versijos paskyra išseko.",
+        "atsijungti": "Atsijungti"
       },
-      "adminAlert": {
-        "icon": "!",
-        "title": "Notice from Admin"
+      "Administratoriaus pranešimas": {
+        "Plėtinys": "!",
+        "pavadinimas": "Pranešimas nuo administratoriaus"
       },
       "demoModal": {
         "header": "Sandstorm is a self-hostable web productivity suite.",
